@@ -1,2 +1,1 @@
-# project81
-spectagram1
+# ST-81-Boilerplate
